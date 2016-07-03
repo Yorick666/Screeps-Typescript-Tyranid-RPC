@@ -1,0 +1,6 @@
+dist
+node_modules
+secrets.js
+typings
+.idea
+.vscode
